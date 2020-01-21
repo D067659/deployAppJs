@@ -16,5 +16,5 @@ server.listen(port, hostname, () => {
 });
 
 app.get('/test', function (req, res) {
-  res.send('Slash Test Check')
+  res.send('Slash Test Chec');
 })
